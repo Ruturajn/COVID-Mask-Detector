@@ -1,0 +1,1 @@
+This is a folder containing the database and code for the model used for Face Mask Detection.
